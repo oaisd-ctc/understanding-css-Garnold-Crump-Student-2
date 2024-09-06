@@ -1,0 +1,10 @@
+body { background-color: black;}
+h1 {color: red;}
+li {font-size: 200%;}
+h1 {text-align: center}
+li {margin: 3%}
+li {color: white;}
+p {font-size: 350%;}
+p {text-align: right;}
+p {color: yellow;}
+li {list-style-type:circle}
